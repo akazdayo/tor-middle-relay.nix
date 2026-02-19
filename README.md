@@ -1,12 +1,6 @@
-# NixOS on DigitalOcean with Terraform
+# tor-middle-relay.nix
 
 Terranix + deploy-rs で NixOS Droplet をデプロイ
-
-## 前提
-
-- Nix (flakes有効)
-- DigitalOcean アカウント
-- SSH キー (という名前でDigitalOceanにアップロード済み)
 
 ## 準備
 
