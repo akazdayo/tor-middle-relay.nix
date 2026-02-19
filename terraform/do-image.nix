@@ -8,6 +8,6 @@
   ];
 
   # DigitalOceanイメージの名前を固定にする
-  image.baseName = lib.mkForce "nixos-digitalocean-do";
+  image.baseName = lib.mkForce "middle-relay";
   system.stateVersion = "26.05";
 }
